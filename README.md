@@ -1,11 +1,40 @@
 # SaaS Startup Checklist
 
+- [ ] [Domain Name](#domain-name)
+- [ ] [Hosting](#hosting)
+- [ ] [Transport Layer Security](#ssl-certificate)
 - [ ] [YSlow! Web Performance Best Practices and Rules](#yslow!-web-performance-best-practices-and-rules)
 - [ ] [Application Performance Monitoring](#application-performance-monitoring)
 - [ ] [Error Tracking](#error-tracking)
-
+- [ ] [Social Media](#social-media)
+- [ ] [Status Page](#status-page)
 
 ## Resources
+
+### Domain Name
+
+* [Namecheap](http://www.namecheap.com/)
+* [Gandi](https://www.gandi.net/)
+
+### Hosting
+
+#### Virtual Private Server (VPS)
+
+* [Linode](https://www.linode.com/)
+
+#### Dedicated Server
+
+* [OVH](https://www.ovh.co.uk/dedicated_servers/)
+* [Digital Ocean](https://www.digitalocean.com/)
+
+#### Cloud
+
+* [Amazon AWS EC2](http://aws.amazon.com/)
+* [Rackspace Cloud](http://www.rackspace.co.uk/cloud)
+
+### Transport Layer Security
+
+Keep your customer's data safe by using an encrypted connection with an SSL certificate. Mandatory for registration and login pages.
 
 ### YSlow! Web Performance Best Practices and Rules
 
@@ -59,3 +88,16 @@ Aggregate client and server errors, exceptions and failures. Should include stac
 * [Muscula](http://www.muscula.com/) - _Log your JavaScript errors, so you can fix them._
 * [BugSense](https://www.bugsense.com/) - _Get actionable reports on the health of your Javascript apps & websites!_
 * [ExceptionHub](http://www.exceptionhub.com/) - _Easy Setup, drop in code and start collecting errors._
+
+### Social Media
+
+Register appropriate usernames/pages on social media sites. Configure alerts for mentions, complaints and praise.
+
+* [Twitter](https://twitter.com/)
+* [Facebook](http://www.facebook.com/)
+
+### Status Page
+
+Externally hosted resource displaying real-time system availabilty, historical uptime, latency, past incidents.
+
+* [StatusPage.io](https://www.statuspage.io/) - _The best way to create a status page for your app or website._
