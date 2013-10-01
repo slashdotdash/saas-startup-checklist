@@ -1,10 +1,37 @@
 # SaaS Startup Checklist
 
+- [ ] [YSlow! Web Performance Best Practices and Rules](#yslow!-web-performance-best-practices-and-rules)
 - [ ] [Application Performance Monitoring](#application-performance-monitoring)
 - [ ] [Error Tracking](#error-tracking)
 
 
 ## Resources
+
+### YSlow! Web Performance Best Practices and Rules
+
+1. [Minimize HTTP Requests](http://developer.yahoo.com/performance/rules.html#num_http)
+2. [Use a Content Delivery Network](http://developer.yahoo.com/performance/rules.html#cdn)
+3. [Avoid empty src or href](http://developer.yahoo.com/performance/rules.html#emptysrc)
+4. [Add an Expires or a Cache-Control Header](http://developer.yahoo.com/performance/rules.html#expires)
+5. [Gzip Components](http://developer.yahoo.com/performance/rules.html#gzip)
+6. [Put StyleSheets at the Top](http://developer.yahoo.com/performance/rules.html#css_top)
+7. [Put Scripts at the Bottom](http://developer.yahoo.com/performance/rules.html#js_bottom)
+8. [Avoid CSS Expressions](http://developer.yahoo.com/performance/rules.html#css_expressions)
+9. [Make JavaScript and CSS External](http://developer.yahoo.com/performance/rules.html#external)
+10. [Reduce DNS Lookups](http://developer.yahoo.com/performance/rules.html#dns_lookups)
+11. [Minify JavaScript and CSS](http://developer.yahoo.com/performance/rules.html#minify)
+12. [Avoid Redirects](http://developer.yahoo.com/performance/rules.html#redirects)
+13. [Remove Duplicate Scripts](http://developer.yahoo.com/performance/rules.html#js_dupes)
+14. [Configure ETags](http://developer.yahoo.com/performance/rules.html#etags)
+15. [Make AJAX Cacheable](http://developer.yahoo.com/performance/rules.html#cacheajax)
+16. [Use GET for AJAX Requests](http://developer.yahoo.com/performance/rules.html#ajax_get)
+17. [Reduce the Number of DOM Elements](http://developer.yahoo.com/performance/rules.html#min_dom)
+18. [No 404s](http://developer.yahoo.com/performance/rules.html#no404)
+19. [Reduce Cookie Size](http://developer.yahoo.com/performance/rules.html#cookie_size)
+20. [Use Cookie-Free Domains for Components](http://developer.yahoo.com/performance/rules.html#cookie_free)
+21. [Avoid Filters](http://developer.yahoo.com/performance/rules.html#no_filters)
+22. [Do Not Scale Images in HTML](http://developer.yahoo.com/performance/rules.html#no_scale)
+23. [Make favicon.ico Small and Cacheable](http://developer.yahoo.com/performance/rules.html#favicon)
 
 ### Application Performance Monitoring
 
