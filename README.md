@@ -9,6 +9,8 @@
 
 ### YSlow! Web Performance Best Practices and Rules
 
+Yahoo!'s Exceptional Performance team has identified a number of [best practices for making web pages fast](http://developer.yahoo.com/performance/rules.html).
+
 1. [Minimize HTTP Requests](http://developer.yahoo.com/performance/rules.html#num_http)
 2. [Use a Content Delivery Network](http://developer.yahoo.com/performance/rules.html#cdn)
 3. [Avoid empty src or href](http://developer.yahoo.com/performance/rules.html#emptysrc)
