@@ -1,6 +1,6 @@
 # SaaS Startup Checklist
 
-- [ ] [Error Tracking](#Error-Tracking)
+- [ ] [Error Tracking](#error-tracking)
 
 
 ## Resources
