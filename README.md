@@ -19,3 +19,10 @@ Aggregate client and server errors, exceptions and failures. Should include stac
 
 * [RayGun](http://raygun.io/) - _Real time error reporting you can set up in under 5 minutes!_
 * [Exceptional](http://www.exceptional.io/) - _Exceptional tracks errors in web apps. It reports them in real-time and gathers the info you need to fix them fast._
+
+#### Client-side error tracking
+
+* [Errorception](http://errorception.com/) - _Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time._
+* [QBaka](https://qbaka.com/) - _Cloud-based frontend error monitoring and analytics for web services & mobile HTML5._
+* [JSLogger](http://jslogger.com/) - _Log Javascript errors and events in the cloud._
+* [Muscula](http://www.muscula.com/) - _Log your JavaScript errors, so you can fix them._
