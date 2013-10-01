@@ -1,8 +1,19 @@
 # SaaS Startup Checklist
 
+## Development
+
+- [ ] Source Code Repository
+- [ ] Continuous Integration
+
+## Deployment
+
 - [ ] [Domain Name](#domain-name)
 - [ ] [Hosting](#hosting)
+- [ ] [Automated Deployment](#automated-deployment)
+- [ ] [Backups](#backup)
+- [ ] [Redundancy and Failover](#redundancy-and-failover)
 - [ ] [Transport Layer Security](#ssl-certificate)
+- [ ] [Content Delivery Network](#content-delivery-network)
 - [ ] [YSlow! Web Performance Best Practices and Rules](#yslow!-web-performance-best-practices-and-rules)
 - [ ] [Application Performance Monitoring](#application-performance-monitoring)
 - [ ] [Error Tracking](#error-tracking)
@@ -26,15 +37,34 @@
 
 * [OVH](https://www.ovh.co.uk/dedicated_servers/)
 * [Digital Ocean](https://www.digitalocean.com/)
+* [Hetzner](http://www.hetzner.de/en/hosting/)
 
 #### Cloud
 
-* [Amazon AWS EC2](http://aws.amazon.com/)
+* [Amazon EC2](http://aws.amazon.com/)
 * [Rackspace Cloud](http://www.rackspace.co.uk/cloud)
+
+### Automated Deployment
+
+### Backups
+
+Database replication and frequent, off-site backups.
+
+* [Amazon S3](http://aws.amazon.com/s3/)
+
+### Redundancy and Failover
+
+Server redundancy and fail-over, load balancing. Multiple, redundant hosting providers to handle datacenter outages.
 
 ### Transport Layer Security
 
 Keep your customer's data safe by using an encrypted connection with an SSL certificate. Mandatory for registration and login pages.
+
+### Content Delivery Network
+
+Optimise delivery of web pages, block threats and limit abusive bots and crawlers.
+
+* [CloudFlare](https://www.cloudflare.com)
 
 ### YSlow! Web Performance Best Practices and Rules
 
