@@ -19,6 +19,7 @@
 - [ ] [Error Tracking](#error-tracking)
 - [ ] [Social Media](#social-media)
 - [ ] [Status Page](#status-page)
+- [ ] [Image Optimisation](#image-optimisation)
 
 ## Resources
 
@@ -132,3 +133,7 @@ Register appropriate usernames/pages on social media sites. Configure alerts for
 Externally hosted resource displaying real-time system availabilty, historical uptime, latency, past incidents.
 
 * [StatusPage.io](https://www.statuspage.io/) - _The best way to create a status page for your app or website._
+
+### Image Optimisation
+
+* [Tools for image optimization](http://addyosmani.com/blog/image-optimization-tools/)
