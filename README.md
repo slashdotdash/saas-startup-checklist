@@ -109,6 +109,7 @@ Aggregate client and server errors, exceptions and failures. Should include stac
 * [Airbrake](http://airbrake.io/) - _With deploy tracking, logging, dupe detection and a dashboard to track your exceptions, managing and triaging errors has never been easier._
 * [RayGun](http://raygun.io/) - _Real time error reporting you can set up in under 5 minutes!_
 * [Exceptional](http://www.exceptional.io/) - _Tracks errors in web apps. It reports them in real-time and gathers the info you need to fix them fast._
+* [Errbit](http://errbit.github.io/errbit/) - _The open source, self-hosted error catcher._
 
 #### Client-side error tracking
 
