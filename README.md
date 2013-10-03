@@ -4,6 +4,7 @@
 
 - [ ] Source Code Repository
 - [ ] Continuous Integration
+- [ ] [API](#api)
 
 ## Deployment
 
@@ -22,6 +23,15 @@
 - [ ] [Image Optimisation](#image-optimisation)
 
 ## Resources
+
+### API
+
+#### Documentation
+
+* [API Blueprint](http://apiblueprint.org/) - _API Documentation with powerful tooling._
+* [API Blueprint Language Specification](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md)
+* [iglo](https://github.com/subosito/iglo) - _API Blueprint's formatter._
+* [Apiary](http://apiary.io/) - _Build beautiful APIs with collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing._
 
 ### Domain Name
 
