@@ -4,6 +4,7 @@
 
 - [ ] Source Code Repository
 - [ ] Continuous Integration
+- [ ] [Cross Browser Testing](#cross-browser-testing)
 - [ ] [API](#api)
 
 ## Deployment
@@ -23,6 +24,11 @@
 - [ ] [Image Optimisation](#image-optimisation)
 
 ## Resources
+
+### Cros Browser Testing
+
+* [BrowserSwarm](http://www.browserswarm.com/)
+* [Sauce Labs](https://saucelabs.com/)
 
 ### API
 
