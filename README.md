@@ -14,6 +14,7 @@
 - [ ] [Automated Deployment](#automated-deployment)
 - [ ] [Backups](#backup)
 - [ ] [Redundancy and Failover](#redundancy-and-failover)
+- [ ] [Alert and Monitoring](#alert-and-monitoring)
 - [ ] [Transport Layer Security](#ssl-certificate)
 - [ ] [Content Delivery Network](#content-delivery-network)
 - [ ] [YSlow! Web Performance Best Practices and Rules](#yslow!-web-performance-best-practices-and-rules)
@@ -26,7 +27,7 @@
 
 ## Resources
 
-### Cros Browser Testing
+### Cross Browser Testing
 
 * [BrowserSwarm](http://www.browserswarm.com/)
 * [Sauce Labs](https://saucelabs.com/)
@@ -73,6 +74,11 @@ Database replication and frequent, off-site backups.
 ### Redundancy and Failover
 
 Server redundancy and fail-over, load balancing. Multiple, redundant hosting providers to handle datacenter outages.
+
+### Alert and Monitoring
+
+* [PagerDuty](http://www.pagerduty.com/) - _Provides SaaS IT on-call 
+schedule management, alerting and incident tracking._
 
 ### Transport Layer Security
 
