@@ -139,6 +139,7 @@ Aggregate client and server errors, exceptions and failures. Should include stac
 #### Analytics
 
 * [Google Analytics](https://www.google.co.uk/analytics/)
+* [Go Squared](https://www.gosquared.com)
 
 #### Client-side error tracking
 
