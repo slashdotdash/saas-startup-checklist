@@ -135,6 +135,7 @@ Aggregate client and server errors, exceptions and failures. Should include stac
 * [RayGun](http://raygun.io/) - _Real time error reporting you can set up in under 5 minutes!_
 * [Exceptional](http://www.exceptional.io/) - _Tracks errors in web apps. It reports them in real-time and gathers the info you need to fix them fast._
 * [Errbit](http://errbit.github.io/errbit/) - _The open source, self-hosted error catcher._
+* [Google Stackdriver Error Reporting](https://cloud.google.com/error-reporting/) - _Real-time exception monitoring and alerting. No limits._ 
 
 #### Analytics
 
