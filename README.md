@@ -168,5 +168,8 @@ Externally hosted resource displaying real-time system availabilty, historical u
 
 * [Tools for image optimization](http://addyosmani.com/blog/image-optimization-tools/)
 
-### Feedback Form
+### User Authentication
+
+* [LoginRadius](https://www.loginradius.com/)
+* [Okta](https://www.okta.com/)
 
